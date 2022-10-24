@@ -21,5 +21,5 @@
   
 # Download Executable File or View Demo Video
 [Executable File](https://drive.google.com/file/d/1cY1MtUY0e3Ak0SnRdAPZ8w6QKA0XlOIG/view?usp=sharing)  
-[Demo Video](https://youtu.be/GPAGxKVH-Nghttps://youtu.be/lb3GB3nYkv0)
+[Demo Video](https://youtu.be/lb3GB3nYkv0)
 
