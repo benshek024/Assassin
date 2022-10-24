@@ -2,8 +2,8 @@
   An arcade style game made for Leap Motion controller developed for my Higher Diploma Assignment
 
 # Requirements to Play The Game
-  Leap Motion Controller x 1
-  A Computer with Leap Motion 4.0.0 installed
+  Leap Motion Controller x 1  
+  A Computer with Leap Motion 4.0.0 installed  
   Your Hands
 
 # Hand Gestures Controls
